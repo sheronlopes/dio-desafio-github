@@ -1,4 +1,4 @@
-Pensamento Computacional: 
+#Pensamento Computacional: 
 Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritimos que podem ser inplementados no computador.
 
 Pilares do pensamento computacional: - Decomposição
