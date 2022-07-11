@@ -23,6 +23,8 @@ Processo de quebrar e determinar partes menores e gerenciaveis > Análise.
 
 Combinar elementos recompondo o problema original > Síntese
 
+...
+
 
 
 Ordem de Execução de tarefas: -> Sequencial

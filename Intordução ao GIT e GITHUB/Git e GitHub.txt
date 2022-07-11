@@ -23,7 +23,7 @@ Objetos fundamentais: blobs
 			    commits
 
 Blob sendo o bloco básico de composição, a Tree armazenando e apontando para os tipo de blobs diferentes.
-
+ ...
 
 O blob guarda o SHA do arquivo, que são os caracteres indentificadores daquele arquivo.
 
